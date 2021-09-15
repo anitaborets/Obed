@@ -1,7 +1,5 @@
 package com.engeto;
 
-import java.util.concurrent.atomic.AtomicInteger;
-
 public class Filozof extends Thread {
     public int number = 0;
     private Spoon right;
